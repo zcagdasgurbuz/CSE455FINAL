@@ -54,12 +54,17 @@ We also observed that random color change transformations might cause misclassif
 
 Finally, as a future direction, we might consider subscribing to Google Colab+ for a month to experiment with a wider range of models and transformations. This could help us to identify further improvements and insights for bird classification.
 
+## VIDEO
+
+Our presentation is available for viewing on YouTube.
+
+[![Watch the video](https://img.youtube.com/vi/jawDqYXGBr8/maxresdefault.jpg)](https://youtu.be/jawDqYXGBr8)
+
 ---
 
 [EfficientNet Traning Notebook](https://www.kaggle.com/code/zeynelgurbuz/zeynel-efficientnet-v2)
 
 [ResNet50 Training Notebook ](https://www.kaggle.com/code/sayujshahi/seventy8accuracy)
-
 
 ----
 
