@@ -1,6 +1,6 @@
-# BIRD CLASSIFICATION CHALLENGE by ZGURBUZ & SSHAHI
+# Bird Classification Challenge by ZGURBUZ & SSHAHI
 
-## TASK
+## Task
 
 Our objective is to develop a machine learning model capable of classifying 555 bird species and compete in [the Kaggle Competition](https://www.kaggle.com/competitions/birds23wi "Birds Birds Birds Are they real?")
 
@@ -54,7 +54,7 @@ We also observed that random color change transformations might cause misclassif
 
 Finally, as a future direction, we might consider subscribing to Google Colab+ for a month to experiment with a wider range of models and transformations. This could help us to identify further improvements and insights for bird classification.
 
-## VIDEO
+## Video
 
 Our presentation is available for viewing on YouTube.
 
