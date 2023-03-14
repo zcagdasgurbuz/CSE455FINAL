@@ -49,7 +49,19 @@ Applying resizing transformations using Kaggle resulted in CPU bottlenecks while
 
 
 
+
+
+
+
 [EfficientNet Traning Notebook](https://www.kaggle.com/code/zeynelgurbuz/zeynel-efficientnet-v2)
 
 [ResNet50 Training Notebook ](https://www.kaggle.com/code/sayujshahi/seventy8accuracy)
 
+
+----
+
+This website was created by Zeynel Cagdas Gurbuz and Sayuj Raj Shahi as part of their final project submission for the
+[CSE 455](https://courses.cs.washington.edu/courses/cse455/23wi/ "The Ancient Secrets of Computer Vision")  course during the winter quarter of 2023.
+
+To reach Zeynel : [zgurbuz@uw.edu](mailto:zgurbuz@uw.edu)  
+To reach Sayuj : [sayujs@uw.edu](mailto:sayujs@uw.edu)
