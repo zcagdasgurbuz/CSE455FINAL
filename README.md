@@ -19,8 +19,6 @@ We have been provided with a dataset comprising 38,561 images of 555 distinct bi
 ![0a254f34050b43a8903a40ff73871ccf](https://user-images.githubusercontent.com/45305014/224865744-cc84629c-50ff-4ef1-84d2-406c05e564d7.jpg)
 ![0a704e3c28c5472d9fdf814805a82a4a](https://user-images.githubusercontent.com/45305014/224865745-a705411e-f3ab-4c31-825c-44fb7b5e7bc0.jpg)
 ![0a6083dabcfd486d8d023e06bdd50898](https://user-images.githubusercontent.com/45305014/224865747-cee967ae-ccf0-40cb-9700-5f24ea4efc2d.jpg)
-![0a9588e11ea041ce85ead7f133dc16f4](https://user-images.githubusercontent.com/45305014/224865749-b8ad63ba-9641-4c88-827d-ba70ab9e6483.jpg)
-
 
 ## Preprocessing and Augmentation
 
